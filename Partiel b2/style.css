@@ -1,0 +1,458 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    padding-top: 55px;
+    padding-left: 350px;   
+    padding-right: 350px;
+    height: 20vh;
+    background-color: #FF0026;
+    
+}
+
+
+.logo{
+    width: 75%;
+}
+
+
+.txt-header{
+    padding-top: 5px;
+}
+
+
+.txt1{
+    color: white;
+    text-decoration: none;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.conteneur1{
+    background-image: url(.//images/15.png);
+    height: 100vh;
+    background-size:cover;
+}
+
+
+.Nos-marques{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 120px;
+    
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+
+
+.mcdo{
+    width: 250px;
+    height: 290px;
+}
+
+.coca{
+    width: 400px;
+    height: 290px;
+}
+
+.voiture{
+    width: 250px;
+    height: 290px;
+}
+
+.bouton{
+    display: flex;
+    justify-content: center;
+    padding-top: 180px;
+    padding-left: 210px;
+}
+
+.buton{
+    background-color: #198754;
+    width: 600px;
+    height: 66px;
+    margin-right: 210px;
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+    border-radius: 6px;
+    border-color: #198754;
+   
+}
+
+.container2{
+    height: 150vh;
+}
+
+.punchline2{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.Annonces{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.cards{
+    width: 1000px;
+    padding-left:400px;
+    padding-left: 400px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;  
+}
+
+.card1{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    border-color: black ;
+    background-color: rgb(238, 238, 238);
+    margin-left: 450px;
+   
+   
+    
+}
+
+.plus{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 30px;
+    
+}
+
+.nouvelle-annonce{
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+
+.txt-nouvelle-annonce {
+    padding-bottom: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.bouton-card1{
+   
+}
+.ajouter{
+background-color: #198754;
+width: 150px;
+height: 40px;
+font-size: 15px;
+font-weight: 400;
+color: white;
+border-radius: 3px;
+border-color: #198754;
+margin-left: 50px;
+
+
+}
+
+
+.card2{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    border-color: black ;
+    background-color: rgb(238, 238, 238);
+    margin-left: 150px;
+   
+   
+    
+}
+
+.card3{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    border-color: black ;
+    background-color: rgb(238, 238, 238);
+    margin-left: 150px;
+   
+   
+    
+}
+
+
+
+
+
+.cards2{
+    width: 1000px;
+    padding-left:400px;
+    padding-left: 400px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;  
+}
+
+.card4{
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    border-color: black ;
+    background-color: rgb(238, 238, 238);
+    margin-left: 450px;
+   
+   
+    
+}
+
+.plus{
+    width: 250px;
+    height: 250px;
+    padding-bottom: 30px;
+    
+}
+
+.nouvelle-annonce{
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+
+.txt-nouvelle-annonce {
+    padding-bottom: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.bouton-card1{
+   
+}
+.ajouter{
+background-color: #198754;
+width: 150px;
+height: 40px;
+font-size: 15px;
+font-weight: 400;
+color: white;
+border-radius: 3px;
+border-color: #198754;
+margin-left: 50px;
+
+
+}
+
+
+.card5{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    border-color: black ;
+    background-color: rgb(238, 238, 238);
+    margin-left: 150px;
+   
+   
+    
+}
+
+.card6{
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    border-color: black ;
+    background-color: rgb(238, 238, 238);
+    margin-left: 150px;
+   
+
+}
+
+
+
+
+
+
+.container3{
+    display: flex;
+    height: 80vh;
+    background-color: #EAE5E5;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.box1{
+    
+    width: 450px;
+    height: 600px;
+    border-right: 10px;
+    border-color: black;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 50px;
+}
+
+.box2{
+    
+    width: 450px;
+    height: 600px;
+    border-right: 10px;
+    border-color: black;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 50px;
+}
+
+.box3{
+    
+    width: 450px;
+    height: 600px;
+    border-right: 10px;
+    border-color: black;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.données{
+    padding-top: 180px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.chiffre{
+    font-size: 120px;
+    font-weight: bold;
+    
+
+}
+
+.txt-données{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.txt-container3{
+    height: 35vh;
+    background-color: #EAE5E5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    text-align: center;
+}
+
+.align-txt{
+    width: 700px;
+    margin-left: 620px;  
+}
+
+.lorem{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+.txt-lorem{
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+}
+
+.fidélité{
+    height: 15vh;
+    background-color: white;
+}
+
+.txt-fidélité{
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.informations{
+    display: flex;
+    justify-content: center;
+}
+
+.partie1{
+
+}
+
+.lorem1{
+    font-weight: 400;
+    color: rgb(82, 81, 81);
+    font-size:20px ;
+    padding-right: 20px;
+
+}
+
+.lorem2{
+    font-weight: 400;
+    color: rgb(82, 81, 81);
+    font-size:20px ;
+    padding-right: 20px;
+
+}
+
+.edf{
+    width: 180px;
+    height: 80px;
+    padding-right: 20px;
+}
+
+.monsanto{
+    width: 250px;
+    height: 120px;
+    padding-bottom: 10px;
+}
+
+.fin{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 200px;
+    
+}
+
+.lorem3{
+    font-weight: 400;
+    color: rgb(82, 81, 81);
+    font-size:20px ;
+    padding-right: 20px;
+
+}
+
+.lorem4{
+    font-weight: 400;
+    color: rgb(82, 81, 81);
+    font-size:20px ;
+    padding-right: 20px;
+
+}
+
+.footer{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.all{
+    width :100px;
+    height:100px;
+    margin-left: 100px;
+}
